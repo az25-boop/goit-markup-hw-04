@@ -403,10 +403,12 @@ ul {
 .footer-container-logo {
   margin-right: 120px;
 }
+
 /* .sm-container {
   flex: 1;
   text-align: right;
 } */
+
 .sm-container-paragraph {
   font-weight: 500;
   font-size: 16px;
