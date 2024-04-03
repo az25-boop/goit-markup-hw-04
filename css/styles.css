@@ -35,7 +35,7 @@ ul {
   padding: 0 15px;
 }
 
-/* =========HEADER==================== */
+/*-------------HEADER---------- */
 .header {
   border-bottom: 1px solid #e7e9fc;
   box-shadow: 0px 2px 1px rgba(46, 47, 66, 0.08),
@@ -129,6 +129,7 @@ ul {
   position: relative;
   color: #404bbf;
 } */
+
 .header-list-ref:hover,
 .header-list-ref:focus {
   color: #404bbf;
@@ -146,7 +147,8 @@ ul {
   color: #404bbf;
 }
 
-/* =============Секція номер №1 ============== */
+/* ---------Секція номер №1 ----------- */
+
 .section-one {
   padding: 188px 0;
   background-color: #2e2f42;
@@ -197,7 +199,7 @@ ul {
   background-color: #404bbf;
 }
 
-/* =================Секція номер №2========== */
+/* --------Секція номер №2------------*/
 .sec-two {
   padding: 120px 0;
 }
@@ -244,7 +246,7 @@ ul {
   margin-bottom: 8px;
 }
 
-/* =================Секція номер №3-========= */
+/*------------Секція номер №3------------------------ */
 .sec-three {
   background-color: #f4f4fd;
   padding: 120px 0;
@@ -321,7 +323,7 @@ ul {
   margin-bottom: 8px;
 }
 
-/* ===============Секція номер №4-=========== */
+/*----------------Секція номер №4----------- */
 .sec-four {
   padding-top: 120px;
   padding-bottom: 120px;
@@ -391,7 +393,7 @@ ul {
   letter-spacing: 0.02em;
   color: #434455;
 }
-/*================ FOOTER =========== */
+/*------------------ FOOTER-------------------*/
 .footer {
   background-color: #2e2f42;
   padding: 100px 0;
